@@ -2,7 +2,7 @@
  * @Author: jinwei26 195569807@qq.com
  * @Date: 2024-09-12 08:48:22
  * @LastEditors: jinwei26 195569807@qq.com
- * @LastEditTime: 2024-09-12 09:02:33
+ * @LastEditTime: 2024-09-12 09:18:27
  * @FilePath: \drpy_dzlive\README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -20,4 +20,5 @@
    ssh-keygen -t rsa -C "GitHub 邮箱"
    
    添加密匙：
-   进入 [C:\Users\用户名.ssh] 目录（要勾选显示“隐藏的项目”），用记事本打开公钥 id_rsa.pub 文件并复制里面的内容。
+   1、进入 [C:\Users\Administrator\.ssh] 目录（要勾选显示“隐藏的项目”），用记事本打开公钥 id_rsa.pub 文件并ctrl+A 复制里面的所有内容。
+   2、登陆 GitHub ，进入 Settings 页面，选择左边栏的 Deploy keys，点击 New SSH key。Title 随便取个名字，粘贴复制的 id_rsa.pub 内容到 Key 中，点击 Add SSH key 完成添加。
