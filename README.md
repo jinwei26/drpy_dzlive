@@ -45,7 +45,10 @@
    将添加test.c文件的更改添加到暂存区，输入：git add test.c
    将目前版本提交，确认为本地最新版本，输入：git commit -m "add test.c"
 
-6、GitHub Proxy 代理加速： https://ghproxy.liuzhicong.com/
+6、GitHub Proxy 代理加速：
+https://ghproxy.liuzhicong.com/
+https://github.moeyy.xyz/
+https://github.com/slasjh/18/blob/main/%E4%BB%A3%E7%90%86%E5%8A%A0%E9%80%9F
 
       
     
