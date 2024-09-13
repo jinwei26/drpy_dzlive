@@ -1,11 +1,4 @@
-<!--
- * @Author: jinwei26 195569807@qq.com
- * @Date: 2024-09-12 08:48:22
- * @LastEditors: jinwei26 195569807@qq.com
- * @LastEditTime: 2024-09-12 13:21:58
- * @FilePath: \drpy_dzlive\README.md
- * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
--->
+
 # drpy_dzlive
 来自 https://github.com/jiushizhe/daozhang/tree/main/drpy_dzlive6.21
 
@@ -46,9 +39,11 @@
    将目前版本提交，确认为本地最新版本，输入：git commit -m "add test.c"
 
 6、GitHub Proxy 代理加速：
-https://ghproxy.liuzhicong.com/
-https://github.moeyy.xyz/
-https://github.com/slasjh/18/blob/main/%E4%BB%A3%E7%90%86%E5%8A%A0%E9%80%9F
+1、https://ghproxy.liuzhicong.com/
+2、https://github.moeyy.xyz/
+3、https://github.com/slasjh/18/blob/main/%E4%BB%A3%E7%90%86%E5%8A%A0%E9%80%9F
+4、https://www.7ed.net/gitmirror/raw.html
+
 
       
     
